@@ -1,0 +1,10 @@
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+**/secrets.json
+*.mdf
+*.ldf
+
+**/serviceDependencies.local.json
